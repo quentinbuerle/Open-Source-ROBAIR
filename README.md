@@ -1,7 +1,9 @@
 # Open-Source-ROBAIR
+---------
 A new open source version of the ROBAIR project originally designed by Jérôme Maisonnasse
 
-# Welcome to the RobAir Open source project!
+ Welcome to the RobAir Open source project!
+ ====================
 
 If you read this, then you probably show some interest in our project Robair. In this guide, we are going to show you the method we used to build our very own Robair. This project is still a prototype, so obviously the method we chose is not perfect and can be improved. Feel free to do your own changes and share with us your upgrades! Just keep in mind that the following guide is just an example of how you can build Robair, and you can change it if you have a better way of doing it.
  
@@ -10,7 +12,7 @@ Required components: Hoverboard, battery charger, pole, idler wheel (x2), nuts, 
 Required machines : laser cutting machine using CorelDraw,  3D Printer using Repetier Host, Stratoconception using StratoConcept, saw, folding machine, rulers, screwdriver, file
  
 # 1 How to build a Robair similar to our :
----------
+
 
 # Step 1: machining of the pieces thanks to the laser cutting machine 
        
