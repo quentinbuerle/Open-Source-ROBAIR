@@ -15,7 +15,7 @@ I- How to build a Robair similar to our :
  ====================
 
 
-Step 1: machining of the pieces thanks to the laser cutting machine 
+Step 1: Machining of the pieces thanks to the laser cutting machine 
 ---------
        
   Get the .dxf files provided on Github [DFX FILES](https://github.com/cinatalia/Open-Source-ROBAIR/tree/master/DFX)
@@ -34,14 +34,14 @@ Step 1: machining of the pieces thanks to the laser cutting machine
       
   Launch the program
  
-Step 2: machining of the pieces thanks to the 3D Printer:
+Step 2: Machining of the pieces thanks to the 3D Printer:
 ---------
       
   Get the .stl files provided on Github [STL FILES](https://github.com/cinatalia/Open-Source-ROBAIR/tree/master/STL)
   
   Open Repetier Host          
  
-Step 3 : machining of the pieces thanks to StratoConception : 
+Step 3 : Machining of the pieces thanks to StratoConception : 
 ---------
        
   Get the .stl files provided on GitHub [STL FILES](https://github.com/cinatalia/Open-Source-ROBAIR/tree/master/STL)
@@ -58,7 +58,7 @@ Step 3 : machining of the pieces thanks to StratoConception :
  
   Create the machine code and put it into the tower 
 
-Step 4: folding the pieces : 
+Step 4: Folding the pieces : 
 ---------
 As you may have noticed, some pieces have been folded to simplify the building of our Robair. 
 
@@ -81,3 +81,5 @@ If you use Creo, SolidWorks or Catia, the .prt and .step files will do just fine
 change the design of the CAD  go back to part I and follow the steps. 
 
 Enjoy it...
+---------
+
