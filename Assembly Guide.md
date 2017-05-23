@@ -18,7 +18,20 @@ S3| 	Back Divider Plate| 	1| 	Laser Cutting|
 SM1| 	Mast support main base| 	1| 	Stratoconception| 
 V_A| 	Hinge| 	4	| 3D printing| 
 
- Upper view assembling:
+### Upper view assembling:
+
+
+<p align="center"> 
+<img src="https://cloud.githubusercontent.com/assets/25613194/26348797/30dd46b6-3fae-11e7-8ff1-449680d2e516.png">
+</p>
+
+
+### Bottom view assembling:
+
+
+<p align="center"> 
+<img src="https://cloud.githubusercontent.com/assets/25613194/26355292/5e865412-3fc8-11e7-80bc-e28a4faf61dc.png">
+</p>
 
 
 
@@ -43,6 +56,4 @@ CP6|	Right-hand side panel 1|	1|	Laser Cutting|
 SV|	Bracket Rear panel	|2|	Laser Cutting|
 H	|Tablet Holder	|1	|Laser Cutting|
 
-## image
- Bottom view assembling:
-![basebottomview](https://cloud.githubusercontent.com/assets/25613194/26355292/5e865412-3fc8-11e7-80bc-e28a4faf61dc.png)
+
