@@ -6,9 +6,9 @@ Code Name | Description | Quantity | Manufacturing Method | Files
 ------------ | ------------- | ------------- | ------------- | ------------- 
 BE1| Main Base | 1 | Laser Cutting  |	[BE1](https://github.com/cinatalia/Open-Source-ROBAIR/blob/master/DFX/be1.DXF)	
 BE2 | 	Second Base| 	1	| Laser Cutting| [BE2](https://github.com/cinatalia/Open-Source-ROBAIR/blob/master/DFX/be2.DXF)
-SR1	| Wheel carrier 1| 	2| 	Stratoconception| [SR1](https://github.com/cinatalia/Open-Source-ROBAIR/blob/master/DFX/sr1.DXF)
-SR2| 	Wheel carrier 2| 	2	| Stratoconception| [SR2](https://github.com/cinatalia/Open-Source-ROBAIR/blob/master/DFX/sr2.DXF)
-SR3| 	Wheel carrier 3| 	2	| Stratoconception| [SR3](https://github.com/cinatalia/Open-Source-ROBAIR/blob/master/DFX/sr3.DXF)
+SR1	| Wheel carrier 1| 	2| 	Stratoconception| [SR1](https://github.com/cinatalia/Open-Source-ROBAIR/blob/master/STL/sr1.stl)
+SR2| 	Wheel carrier 2| 	2	| Stratoconception| [SR2](https://github.com/cinatalia/Open-Source-ROBAIR/blob/master/STL/sr2.stl)
+SR3| 	Wheel carrier 3| 	2	| Stratoconception| [SR3](https://github.com/cinatalia/Open-Source-ROBAIR/blob/master/STL/sr3.stl)
 AD1	| Caster wheel adapter| 	2	|Stratoconception|[AD1](https://github.com/cinatalia/Open-Source-ROBAIR/blob/master/STL/ad1.stl)
 SB| 	Battery carrier| 	2	| Laser Cutting| [SB](https://github.com/cinatalia/Open-Source-ROBAIR/blob/master/DFX/sb.DXF)
 SP1| 	Electronical board carrier| 	1	| Laser Cutting| [SP1](https://github.com/cinatalia/Open-Source-ROBAIR/blob/master/DFX/sp1.DXF)
@@ -38,21 +38,21 @@ Upper view assembling |Bottom view assembling
 
 Code Name | Description | Quantity | Manufacturing Method | Files 
 ------------ | ------------- | ------------- | ------------- | ------------- 
-BE3|	Third Base	|1	|Laser Cutting|
-BE4|	Fourth Base|	1	|Laser Cutting|
-SM2|	Mast support	|3|	Stratoconception|
-CS1|	Front panel 2|	1	|Laser Cutting|
-CS2|	Lateral panel|	4	|Laser Cutting|
-CS3	|Back Panel 3|	1|	Laser Cutting|
-CT1	|Front panel 3|	1	|Laser Cutting|
-CP1|	Front panel 1|	1|	Laser Cutting|
-CP2|	Left-hand side panel 1|	1	|Laser Cutting|
-CP3|	Left-hand rear panel 1|	1	|Laser Cutting|
-CP4	|Rear Panel 1|	1|	Laser Cutting|
-CP5|	Right-hand rear panel 1|	1|	Laser Cutting|
-CP6|	Right-hand side panel 1|	1|	Laser Cutting|
-SV|	Bracket Rear panel	|2|	Laser Cutting|
-H	|Tablet Holder	|1	|Laser Cutting|
+BE3|	Third Base	|1	|Laser Cutting|[BE3](https://github.com/cinatalia/Open-Source-ROBAIR/blob/master/DFX/be3.DXF)	
+BE4|	Fourth Base|	1	|Laser Cutting|[BE4](https://github.com/cinatalia/Open-Source-ROBAIR/blob/master/DFX/be4.DXF)	
+SM2|	Mast support	|3|	Stratoconception|[SM2](https://github.com/cinatalia/Open-Source-ROBAIR/blob/master/STL/sm2.stl)
+CS1|	Front panel 2|	1	|Laser Cutting|[CS1](https://github.com/cinatalia/Open-Source-ROBAIR/blob/master/DFX/cs1.DXF)	
+CS2|	Lateral panel|	4	|Laser Cutting|[CS2](https://github.com/cinatalia/Open-Source-ROBAIR/blob/master/DFX/cs2.DXF)	
+CS3	|Back Panel 3|	1|	Laser Cutting|[CS3](https://github.com/cinatalia/Open-Source-ROBAIR/blob/master/DFX/cs3.DXF)	
+CT1	|Front panel 3|	1	|Laser Cutting|[CT1](https://github.com/cinatalia/Open-Source-ROBAIR/blob/master/DFX/ct1.DXF)	
+CP1|	Front panel 1|	1|	Laser Cutting|[CP1](https://github.com/cinatalia/Open-Source-ROBAIR/blob/master/DFX/cp1.DXF)	
+CP2|	Left-hand side panel 1|	1	|Laser Cutting|[CP2](https://github.com/cinatalia/Open-Source-ROBAIR/blob/master/DFX/cp2.DXF)	
+CP3|	Left-hand rear panel 1|	1	|Laser Cutting|[CP3](https://github.com/cinatalia/Open-Source-ROBAIR/blob/master/DFX/cp3.DXF)	
+CP4	|Rear Panel 1|	1|	Laser Cutting|[CP4](https://github.com/cinatalia/Open-Source-ROBAIR/blob/master/DFX/cp4.DXF)	
+CP5|	Right-hand rear panel 1|	1|	Laser Cutting|[CP5](https://github.com/cinatalia/Open-Source-ROBAIR/blob/master/DFX/cp5.DXF)	
+CP6|	Right-hand side panel 1|	1|	Laser Cutting|[CP6](https://github.com/cinatalia/Open-Source-ROBAIR/blob/master/DFX/cp6.DXF)	
+SV|	Bracket Rear panel	|2|	Laser Cutting|[SV](https://github.com/cinatalia/Open-Source-ROBAIR/blob/master/DFX/sv.DXF)	
+H	|Tablet Holder	|1	|Laser Cutting|[H](https://github.com/cinatalia/Open-Source-ROBAIR/blob/master/DFX/h.DXF)	
 
 ### First Module Body:
 Front Parts | Back Parts
