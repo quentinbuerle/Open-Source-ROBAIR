@@ -68,6 +68,10 @@ Step 5 : Assembly and mounting of Robair :
 ---------
 
    Now that you have all the components of Robair, you can start the assembly.
+   First Header | Second Header
+------------ | -------------
+Content from cell 1 | Content from cell 2
+Content in the first column | Content in the second column
 
 
  II- How to build a different Robair : 
