@@ -11,7 +11,7 @@ Required material : screws, Plexiglas
 Required components: Hoverboard, battery charger, pole, idler wheel (x2), nuts, screws, washers
 Required machines : laser cutting machine using CorelDraw,  3D Printer using Repetier Host, Stratoconception using StratoConcept, saw, folding machine, rulers, screwdriver, file
  
-1 How to build a Robair similar to our :
+I- How to build a Robair similar to our :
  ====================
 
 
@@ -70,7 +70,7 @@ Step 5 : Assembly and mounting of Robair :
    Now that you have all the components of Robair, you can start the assembly.
 
 
- II) How to build a different Robair : 
+ II- How to build a different Robair : 
   ====================
 
 In case you want to change the structure of the robot and add your own upgrades, you only have to follow these steps :
@@ -79,3 +79,5 @@ Get the CAD files provided on GitHub. The files are available in different forma
 
 If you use Creo, SolidWorks or Catia, the .prt and .step files will do just fine. However, if you want to use a free open source CAD software like FreeCAD, know that the .iges format is pretty standard and should work on any software you use
 change the design of the CAD  go back to part I and follow the steps. 
+
+Enjoy it...
