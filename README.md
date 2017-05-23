@@ -9,32 +9,29 @@ Required material : screws, Plexiglas
 Required components: Hoverboard, battery charger, pole, idler wheel (x2), nuts, screws, washers
 Required machines : laser cutting machine using CorelDraw,  3D Printer using Repetier Host, Stratoconception using StratoConcept, saw, folding machine, rulers, screwdriver, file
  
-1) How to build a Robair similar to our :
+1 How to build a Robair similar to our :
 Step 1: machining of the pieces thanks to the laser cutting machine 
--          Get the .dxf files provided on Github [a relative link](Open-Source-ROBAIR/DFX/)
--          Open CorelDraw
--          Import the files that you wish to cut (be careful to the dimensions of the plate and the thickness of the parts)
--          Choose the option “very fine outlines” and “connect the curvatures”
--          Print the file after selecting the adapted parameters for the plate thickness
--          Place the plate on the correct position and initialize the origin
--          Activate the ventilation
--          Launch the program
+       Get the .dxf files provided on Github [a relative link](Open-Source-ROBAIR/DFX/)
+       Open CorelDraw
+       Import the files that you wish to cut (be careful to the dimensions of the plate and the thickness of the parts)
+       Choose the option “very fine outlines” and “connect the curvatures”
+       Print the file after selecting the adapted parameters for the plate thickness
+       Place the plate on the correct position and initialize the origin
+       Activate the ventilation
+       Launch the program
  
 Step 2: machining of the pieces thanks to the 3D Printer:
--          Get the .stl files provided on Github
--          Open Repetier Host
--           
+       Get the .stl files provided on Github
+       Open Repetier Host          
  
 Step 3 : machining of the pieces thanks to StratoConception : 
-Get the .stl files provided on GitHub
-Open StratoPro
-Choose the correct thickness and positioning of the slices according to the thickness of the available plates
-Define the positioning of the inserts (metal rods used to maintain the alignment when we glue the differents slices together
-Choose the correct tool for the cutting
-Check that the tool path matches the geometry of the parts
-Create the machine code and put it into the tower 
-
-
+       Get the .stl files provided on GitHub
+       Open StratoPro
+       Choose the correct thickness and positioning of the slices according to the thickness of the available plates
+       Define the positioning of the inserts (metal rods used to maintain the alignment when we glue the differents slices together
+       Choose the correct tool for the cutting
+       Check that the tool path matches the geometry of the parts
+       Create the machine code and put it into the tower 
 
 Step 4: folding the pieces : 
 
@@ -42,7 +39,7 @@ As you may have noticed, some pieces have been folded to simplify the building o
 
 Step 5 : Assembly and mounting of Robair :
 
-Now that you have all the components of Robair, you can start the assembly.
+   Now that you have all the components of Robair, you can start the assembly.
 
 
 II) How to build a different Robair : 
