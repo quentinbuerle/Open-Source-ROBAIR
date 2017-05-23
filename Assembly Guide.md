@@ -65,7 +65,7 @@ H	|Tablet Holder	|1	|Laser Cutting|
 ### First Module Body:
 Front | Back
 ------------ | ------------- 
-![firstmodulebody](https://cloud.githubusercontent.com/assets/25613194/26357724/81b9243e-3fd0-11e7-95d9-6cfcc11f65ea.JPG) | <p align="center"> <img src="https://cloud.githubusercontent.com/assets/25613194/26358205/13f14920-3fd2-11e7-992a-d664b83298ad.JPG" height="580" width="450" > </p>
+![firstmodulebody](https://cloud.githubusercontent.com/assets/25613194/26357724/81b9243e-3fd0-11e7-95d9-6cfcc11f65ea.JPG) | <p align="center"> <img src="https://cloud.githubusercontent.com/assets/25613194/26358205/13f14920-3fd2-11e7-992a-d664b83298ad.JPG" height="530" width="450" > </p>
 
 
 
