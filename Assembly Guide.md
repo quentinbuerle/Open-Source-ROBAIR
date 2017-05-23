@@ -17,6 +17,7 @@ S2| 	Side Divider Plate| 	2| 	Laser Cutting|
 S3| 	Back Divider Plate| 	1| 	Laser Cutting| 
 SM1| 	Mast support main base| 	1| 	Stratoconception| 
 V_A| 	Hinge| 	4	| 3D printing| 
+M| 	Mast| 	1	| Cut a PVC tube (1m)| 
 
 ### Upper view assembling:
 
@@ -61,4 +62,8 @@ CP6|	Right-hand side panel 1|	1|	Laser Cutting|
 SV|	Bracket Rear panel	|2|	Laser Cutting|
 H	|Tablet Holder	|1	|Laser Cutting|
 
+### First Module Body:
 
+<p align="center"> 
+<img src="https://cloud.githubusercontent.com/assets/25613194/26357724/81b9243e-3fd0-11e7-95d9-6cfcc11f65ea.JPG" >
+</p>
