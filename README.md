@@ -1,7 +1,7 @@
 # Open-Source-ROBAIR
 
 A new open source version of the ROBAIR project originally designed by Jérôme Maisonnasse
----------
+
  Welcome to the RobAir Open source project!
  ====================
 
@@ -34,13 +34,15 @@ Step 1: machining of the pieces thanks to the laser cutting machine
       
   Launch the program
  
-# Step 2: machining of the pieces thanks to the 3D Printer:
+Step 2: machining of the pieces thanks to the 3D Printer:
+---------
       
   Get the .stl files provided on Github [STL FILES](https://github.com/cinatalia/Open-Source-ROBAIR/tree/master/STL)
   
   Open Repetier Host          
  
-# Step 3 : machining of the pieces thanks to StratoConception : 
+Step 3 : machining of the pieces thanks to StratoConception : 
+---------
        
   Get the .stl files provided on GitHub [STL FILES](https://github.com/cinatalia/Open-Source-ROBAIR/tree/master/STL)
   
@@ -56,18 +58,20 @@ Step 1: machining of the pieces thanks to the laser cutting machine
  
   Create the machine code and put it into the tower 
 
-# Step 4: folding the pieces : 
-
+Step 4: folding the pieces : 
+---------
 As you may have noticed, some pieces have been folded to simplify the building of our Robair. 
 
 To fold the pieces, start by cutting the pattern file with the laser cutting machine. Then, simply draw a line where you went to bend the part and using the folding machine, heat the line until it’s limp enough to be folded at the correct angle
 
-# Step 5 : Assembly and mounting of Robair :
+Step 5 : Assembly and mounting of Robair :
+---------
 
    Now that you have all the components of Robair, you can start the assembly.
 
 
-# II) How to build a different Robair : 
+ II) How to build a different Robair : 
+  ====================
 
 In case you want to change the structure of the robot and add your own upgrades, you only have to follow these steps :
 
