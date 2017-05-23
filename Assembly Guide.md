@@ -21,9 +21,9 @@ V_A| 	Hinge| 	4	| 3D printing|
 ### Upper view assembling:
 
 
-<a align="center"> 
+<p align="center"> 
 <img src="https://cloud.githubusercontent.com/assets/25613194/26348797/30dd46b6-3fae-11e7-8ff1-449680d2e516.png" height="400" width="580">
-</a>
+</p>
 
 
 ### Bottom view assembling:
