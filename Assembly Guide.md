@@ -5,18 +5,18 @@
 Code Name | Description | Quantity | Manufacturing Method | Files 
 ------------ | ------------- | ------------- | ------------- | ------------- 
 BE1| Main Base | 1 | Laser Cutting  |	[BE1](https://github.com/cinatalia/Open-Source-ROBAIR/blob/master/DFX/be1.DXF)	
-BE2 | 	Second Base| 	1	| Laser Cutting| 
-SR1	| Wheel carrier 1| 	2| 	Stratoconception| 
-SR2| 	Wheel carrier 2| 	2	| Stratoconception| 
-SR3| 	Wheel carrier 3| 	2	| Stratoconception| 
-AD1	| Caster wheel adapter| 	2	|Stratoconception| 
-SB| 	Battery carrier| 	2	| Laser Cutting| 
-SP1| 	Electronical board carrier| 	1	| Laser Cutting| 
-S1| 	Middle Divider plate|  	1	| Laser Cutting| 
-S2| 	Side Divider Plate| 	2| 	Laser Cutting| 
-S3| 	Back Divider Plate| 	1| 	Laser Cutting| 
-SM1| 	Mast support main base| 	1| 	Stratoconception| 
-V_A| 	Hinge| 	4	| 3D printing| 
+BE2 | 	Second Base| 	1	| Laser Cutting| [BE2](https://github.com/cinatalia/Open-Source-ROBAIR/blob/master/DFX/be2.DXF)
+SR1	| Wheel carrier 1| 	2| 	Stratoconception| [SR1](https://github.com/cinatalia/Open-Source-ROBAIR/blob/master/DFX/sr1.DXF)
+SR2| 	Wheel carrier 2| 	2	| Stratoconception| [SR2](https://github.com/cinatalia/Open-Source-ROBAIR/blob/master/DFX/sr2.DXF)
+SR3| 	Wheel carrier 3| 	2	| Stratoconception| [SR3](https://github.com/cinatalia/Open-Source-ROBAIR/blob/master/DFX/sr3.DXF)
+AD1	| Caster wheel adapter| 	2	|Stratoconception|[AD1](https://github.com/cinatalia/Open-Source-ROBAIR/blob/master/STL/ad1.stl)
+SB| 	Battery carrier| 	2	| Laser Cutting| [SB](https://github.com/cinatalia/Open-Source-ROBAIR/blob/master/DFX/sb.DXF)
+SP1| 	Electronical board carrier| 	1	| Laser Cutting| [SP1](https://github.com/cinatalia/Open-Source-ROBAIR/blob/master/DFX/sp1.DXF)
+S1| 	Middle Divider plate|  	1	| Laser Cutting| [S1](https://github.com/cinatalia/Open-Source-ROBAIR/blob/master/DFX/s1.DXF)
+S2| 	Side Divider Plate| 	2| 	Laser Cutting| [S2](https://github.com/cinatalia/Open-Source-ROBAIR/blob/master/DFX/s2.DXF)
+S3| 	Back Divider Plate| 	1| 	Laser Cutting| [S3](https://github.com/cinatalia/Open-Source-ROBAIR/blob/master/DFX/s3.DXF)
+SM1| 	Mast support main base| 	1| 	Stratoconception| [SM1](https://github.com/cinatalia/Open-Source-ROBAIR/blob/master/STL/sm1.stl)
+V_A| 	Hinge| 	4	| 3D printing| [V_A](https://github.com/cinatalia/Open-Source-ROBAIR/blob/master/STL/v_a.stl)
 M| 	Mast| 	1	| Cut a PVC tube (1m)| 
 
 
