@@ -33,7 +33,12 @@ V_A| 	Hinge| 	4	| 3D printing|
 <img src="https://cloud.githubusercontent.com/assets/25613194/26355292/5e865412-3fc8-11e7-80bc-e28a4faf61dc.png" height="400" width="580">
 </p>
 
+### Complete base assembling:
 
+
+<p align="center"> 
+<img src="https://cloud.githubusercontent.com/assets/25613194/26357527/d79c28e8-3fcf-11e7-9a92-cabfcc01a3a6.JPG" >
+</p>
 
 
 ## Step 2: Assembly the RobAir Body
