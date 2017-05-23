@@ -23,7 +23,7 @@ M| 	Mast| 	1	| Cut a PVC tube (1m)|
 ### base assemmbling:
 Upper view assembling |Bottom view assembling
 ------------ | ------------- 
- <a align="center"> <img src="https://cloud.githubusercontent.com/assets/25613194/26348797/30dd46b6-3fae-11e7-8ff1-449680d2e516.png" height="500" width="400" > </a>| <p align="center"> <img src="https://cloud.githubusercontent.com/assets/25613194/26355292/5e865412-3fc8-11e7-80bc-e28a4faf61dc.png" height="500" width="450" > </p>
+ <a align="center"> <img src="https://cloud.githubusercontent.com/assets/25613194/26348797/30dd46b6-3fae-11e7-8ff1-449680d2e516.png" height="350" width="400" > </a>| <p align="center"> <img src="https://cloud.githubusercontent.com/assets/25613194/26355292/5e865412-3fc8-11e7-80bc-e28a4faf61dc.png" height="400" width="400" > </p>
 
 
 ### Complete base assembling:
@@ -65,9 +65,6 @@ Front Parts | Back Parts
  <a align="center"> <img src="https://cloud.githubusercontent.com/assets/25613194/26359387/a1d15f0c-3fd5-11e7-9a9f-2ae1ca436c43.JPG" height="500" width="400" > </a>| <p align="center"> <img src="https://cloud.githubusercontent.com/assets/25613194/26359414/b0c9f17c-3fd5-11e7-856b-c92e3766de3a.JPG" height="500" width="450" > </p>
 
 ### Complete assembling:
+<p align="center"> <img src="https://cloud.githubusercontent.com/assets/25613194/26360152/ad5f0ce6-3fd7-11e7-993e-cf79ca1eed8f.JPG"  > </p>
 
-
-<p align="center"> 
-<img src="(https://cloud.githubusercontent.com/assets/25613194/26359962/21cf04f6-3fd7-11e7-92ba-9d7bd3cbc2ac.JPG" >
-</p>
 
