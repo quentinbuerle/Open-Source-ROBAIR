@@ -1,7 +1,7 @@
 # Open-Source-ROBAIR
 A new open source version of the ROBAIR project originally designed by Jérôme Maisonnasse
 
-<title-short/>Welcome to the RobAir Open source project!
+</title-short>Welcome to the RobAir Open source project!
 
 If you read this, then you probably show some interest in our project Robair. In this guide, we are going to show you the method we used to build our very own Robair. This project is still a prototype, so obviously the method we chose is not perfect and can be improved. Feel free to do your own changes and share with us your upgrades! Just keep in mind that the following guide is just an example of how you can build Robair, and you can change it if you have a better way of doing it.
  
