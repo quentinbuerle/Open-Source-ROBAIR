@@ -20,7 +20,7 @@ V_A| 	Hinge| 	4	| 3D printing| [V_A](https://github.com/cinatalia/Open-Source-RO
 M| 	Mast| 	1	| Cut a PVC tube (1m)| 
 
 
-### base assemmbling:
+### Base assemmbling:
 Upper view assembling |Bottom view assembling
 ------------ | ------------- 
  <a align="center"> <img src="https://cloud.githubusercontent.com/assets/25613194/26348797/30dd46b6-3fae-11e7-8ff1-449680d2e516.png" height="350" width="400" > </a>| <p align="center"> <img src="https://cloud.githubusercontent.com/assets/25613194/26355292/5e865412-3fc8-11e7-80bc-e28a4faf61dc.png" height="400" width="400" > </p>
