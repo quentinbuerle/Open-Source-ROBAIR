@@ -11,7 +11,7 @@ Required machines : laser cutting machine using CorelDraw,  3D Printer using Rep
  
 1 How to build a Robair similar to our :
 Step 1: machining of the pieces thanks to the laser cutting machine 
-       Get the .dxf files provided on Github [DFX FILES](quentinbuerle:master/Open-Source-ROBAIR/DFX/)
+       Get the .dxf files provided on Github [DFX FILES](master/Open-Source-ROBAIR/DFX/)
       
       Open CorelDraw
       
