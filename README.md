@@ -10,8 +10,10 @@ Required components: Hoverboard, battery charger, pole, idler wheel (x2), nuts, 
 Required machines : laser cutting machine using CorelDraw,  3D Printer using Repetier Host, Stratoconception using StratoConcept, saw, folding machine, rulers, screwdriver, file
  
 1 How to build a Robair similar to our :
+
 Step 1: machining of the pieces thanks to the laser cutting machine 
-       Get the .dxf files provided on Github [DFX FILES](https://github.com/cinatalia/Open-Source-ROBAIR/tree/master/DFX)
+       
+      Get the .dxf files provided on Github [DFX FILES](https://github.com/cinatalia/Open-Source-ROBAIR/tree/master/DFX)
       
       Open CorelDraw
       
