@@ -69,6 +69,6 @@ H	|Tablet Holder	|1	|Laser Cutting|
 
 </p>
 <p align="left"> 
-<img src="https://cloud.githubusercontent.com/assets/25613194/26358041/92a04e34-3fd1-11e7-8f9c-30d53bdcd52b.JPG" >
+<img src="https://cloud.githubusercontent.com/assets/25613194/26358205/13f14920-3fd2-11e7-992a-d664b83298ad.JPG" >
 </p>
 
