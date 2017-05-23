@@ -67,6 +67,9 @@ Front Parts | Back Parts
 ------------ | ------------- 
 ![firstmodulebody](https://cloud.githubusercontent.com/assets/25613194/26357724/81b9243e-3fd0-11e7-95d9-6cfcc11f65ea.JPG) | <p align="center"> <img src="https://cloud.githubusercontent.com/assets/25613194/26358205/13f14920-3fd2-11e7-992a-d664b83298ad.JPG" height="500" width="450" > </p>
 
-
+### Second and Third Module Body:
+Front Parts | Back Parts
+------------ | ------------- 
+ <p align="center"> <img src="(https://cloud.githubusercontent.com/assets/25613194/26359387/a1d15f0c-3fd5-11e7-9a9f-2ae1ca436c43.JPG" height="500" width="450" > </p> | <p align="center"> <img src="https://cloud.githubusercontent.com/assets/25613194/26359414/b0c9f17c-3fd5-11e7-856b-c92e3766de3a.JPG" height="500" width="450" > </p>
 
 
