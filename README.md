@@ -13,21 +13,21 @@ Required machines : laser cutting machine using CorelDraw,  3D Printer using Rep
 
 Step 1: machining of the pieces thanks to the laser cutting machine 
        
-      Get the .dxf files provided on Github [DFX FILES](https://github.com/cinatalia/Open-Source-ROBAIR/tree/master/DFX)
+  Get the .dxf files provided on Github [DFX FILES](https://github.com/cinatalia/Open-Source-ROBAIR/tree/master/DFX)
       
-      Open CorelDraw
+  Open CorelDraw
       
-      Import the files that you wish to cut (be careful to the dimensions of the plate and the thickness of the parts)
+  Import the files that you wish to cut (be careful to the dimensions of the plate and the thickness of the parts)
       
-      Choose the option “very fine outlines” and “connect the curvatures”
+  Choose the option “very fine outlines” and “connect the curvatures”
       
-      Print the file after selecting the adapted parameters for the plate thickness
+  Print the file after selecting the adapted parameters for the plate thickness
        
-      Place the plate on the correct position and initialize the origin
+  Place the plate on the correct position and initialize the origin
       
-      Activate the ventilation
+  Activate the ventilation
       
-      Launch the program
+  Launch the program
  
 Step 2: machining of the pieces thanks to the 3D Printer:
        Get the .stl files provided on Github
