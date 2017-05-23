@@ -10,6 +10,7 @@ Required components: Hoverboard, battery charger, pole, idler wheel (x2), nuts, 
 Required machines : laser cutting machine using CorelDraw,  3D Printer using Repetier Host, Stratoconception using StratoConcept, saw, folding machine, rulers, screwdriver, file
  
 # 1 How to build a Robair similar to our :
+---------
 
 # Step 1: machining of the pieces thanks to the laser cutting machine 
        
@@ -66,7 +67,7 @@ To fold the pieces, start by cutting the pattern file with the laser cutting mac
 
 In case you want to change the structure of the robot and add your own upgrades, you only have to follow these steps :
 
-get the CAD files provided on GitHub. The files are available in different formats (.PRT ,.STEP, .IGES),[PRT FILES](https://github.com/cinatalia/Open-Source-ROBAIR/tree/master/Original%20version%20Creo%20.PRT), [STEP FILES](https://github.com/cinatalia/Open-Source-ROBAIR/tree/master/STEP), [IGES FILES](https://github.com/cinatalia/Open-Source-ROBAIR/tree/master/IGES)
+Get the CAD files provided on GitHub. The files are available in different formats (.PRT ,.STEP, .IGES); [PRT FILES](https://github.com/cinatalia/Open-Source-ROBAIR/tree/master/Original%20version%20Creo%20.PRT), [STEP FILES](https://github.com/cinatalia/Open-Source-ROBAIR/tree/master/STEP), [IGES FILES](https://github.com/cinatalia/Open-Source-ROBAIR/tree/master/IGES)
 
 If you use Creo, SolidWorks or Catia, the .prt and .step files will do just fine. However, if you want to use a free open source CAD software like FreeCAD, know that the .iges format is pretty standard and should work on any software you use
 change the design of the CAD  go back to part I and follow the steps. 
